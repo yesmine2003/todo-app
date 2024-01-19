@@ -1,0 +1,11 @@
+<div class="container">
+  <h1>TO DO LIST</h1>
+  <nav>
+    <button [routerLink]="['']" class="btn btn-dark">Todos</button>
+    <button class="btn btn-dark" (click)="todoService.todoAddShowModal=true">New</button>
+    <button class="btn btn-dark" [routerLink]="['signin']">{{userService.btnSignValue}}</button>
+
+
+  </nav>
+</div>
+  

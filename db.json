@@ -1,0 +1,33 @@
+{
+  "todos": [
+    {
+      "id": "0",
+      "title": "Recrutement",
+      "date": "2023-12-16",
+      "description": "Effectuer un recrutement",
+      "done": true
+    },
+    {
+      "id": "1",
+      "title": "Meeting",
+      "date": "2023-12-25",
+      "description": "Effectuer un meet avec les stagiaires",
+      "done": false
+    },
+    {
+      "id": "2",
+      "title": "mina",
+      "date": "2024-01-24",
+      "description": "Rencontrer Mina",
+      "done": false
+    }
+  ],
+  "users": [
+    {
+      "id": "0",
+      "login": "0000",
+      "password": "0000",
+      "token": "Yesmina"
+    }
+  ]
+}
